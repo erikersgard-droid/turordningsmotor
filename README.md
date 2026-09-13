@@ -6,7 +6,7 @@ Noll externa beroenden: modern ESM-JavaScript + Nodes inbyggda testrunner,
 direkt återanvändbar i React-frontenden.
 
 ## Körning
-    node --test 'test/*.test.js'     # 39 tester
+    node --test 'test/*.test.js'     # 47 tester
 
 ## Moduler
     src/anstallningstid.js   3 §-logik: kalenderdagar, tillgodoräknande, sammanslagning
